@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Ash-CoderGitHub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ash-CoderGitHub/Ash-CoderGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-//create a login validation
+Yo, my name is Migel Lewie B. Fami, a student from SANHSP. I code when I'm bored, I'm 13 yrs old and doesn't have a lot of coding friends, I'd like one.
