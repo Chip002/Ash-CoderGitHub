@@ -1,6 +1,7 @@
-# 👋 Hello! I'm **Migel Lewie B. Fami** 👨‍💻
-
+# 👋 Hello! I'm **Chip** 👨‍💻
+- I use an alias because I don't wanna reveal my personal information online.
 ## About Me
+- 🇵🇭 From the **Philippines**
 - 📚 **Student at SANHSP**
 - 🧑‍💻 I code when I'm bored
 - 🧩 I like solving **Rubik's Cubes**
